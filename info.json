@@ -43,7 +43,10 @@
         "automatic-station-painter",
         "color_whole_train",
         "FluidWagonColorMask",
-        "RainbowCollector"
+        "RainbowCollector",
+        "CaramelldansenLabs",
+        "enhanced-shadows",
+        "rainbow-character"
     ],
     "package": {
         "ignore": [

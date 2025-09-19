@@ -36,7 +36,10 @@ local mod_list = {
     "automatic-station-painter",
     "color_whole_train",
     "FluidWagonColorMask",
-    "RainbowCollector"
+    "RainbowCollector",
+    "CaramelldansenLabs",
+    "enhanced-shadows",
+    "rainbow-character"
 }
 
 for _, simulation in pairs(data.raw["utility-constants"]["default"].main_menu_simulations) do
