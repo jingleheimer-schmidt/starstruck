@@ -43,7 +43,8 @@
         "Automatic_Train_Painter",
         "automatic-station-painter",
         "color_whole_train",
-        "FluidWagonColorMask"
+        "FluidWagonColorMask",
+        "RainbowCollector"
     ],
     "package": {
         "ignore": [
