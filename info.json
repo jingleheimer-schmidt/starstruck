@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "title": "Starstruck",
     "author": "asher_sky",
-    "description": "A unique constellation of mods that subtly enhance gameplay, without fundamentally changing it. The modpack includes subtle audio and visual changes, quality-of-life tools, and ",
+    "description": "A unique constellation of mods that subtly enhance gameplay, without fundamentally changing it. The modpack includes many small quality-of-life tools and visual/audio enhancements to create a fun immersive and colorful experience.",
     "factorio_version": "2.0",
     "dependencies": [
         "base",
