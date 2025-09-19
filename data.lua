@@ -8,7 +8,6 @@ local mod_list = {
     "NicerFuelGlow-Fixed",
     "heat_glow",
     "DiscoScience",
-    "fire-lights",
     "Milestones",
     "better-victory-screen",
     "brake-squeal",
