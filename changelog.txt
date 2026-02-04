@@ -3,3 +3,4 @@ Version: 0.1.0
 Date: 2025-09-17
   Features:
     - Added a command to toggle the "Use destination train stop color" setting for all trains [/toggle-train-color-mode]
+    - Added a mod setting to show/hide the Factorio Logos technology added by the Rainbow Menu Logos mod
