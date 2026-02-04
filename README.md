@@ -1,6 +1,6 @@
 # Overview
 
-The Starstruck modpack is a unique constellation of mods that subtly enhance gameplay, without fundamentally changing it. The modpack includes many small visual mods, quality-of-life tools, and other enhancements that can be added or removed at any time without disrupting the factory.
+The Starstruck modpack is a unique constellation of mods that subtly enhance gameplay, without fundamentally changing it. The modpack includes many small visual mods, quality-of-life tools, and other enhancements that can be added or removed at any time without affecting .
 
 # Included Mods
 
@@ -13,7 +13,7 @@ The Starstruck modpack is a unique constellation of mods that subtly enhance gam
 - [__Enhanced Shadows__](https://mods.factorio.com/mod/enhanced-shadows) - Replaces baked-in asset shadows with shadow-separated variants.
 - [__Bullet Trails__](https://mods.factorio.com/mod/bullet-trails) - Adds visual trails to machine gun type bullets.
 - [__Fluid Wagon Color Mask__](https://mods.factorio.com/mod/FluidWagonColorMask) - Adds a color mask for the fluid wagon.
-- [__Rainbow Character__](https://mods.factorio.com/mod/rainbow-character) - Automatically cycles player colors through the rainbow and other color themes.
+- [__Rainbow Character__](https://mods.factorio.com/mod/rainbow-character) - Animates player colors with rainbow colors and other themes.
 - [__Disco Thrusters__](https://mods.factorio.com/mod/DiscoThrusters) - Animates rocket thruster exhaust with rainbow colors.
 - [__Rainbow Lasers__](https://mods.factorio.com/mod/RainbowLasers) - Animates laser beams with rainbow colors.
 - [__Disco Science__](https://mods.factorio.com/mod/DiscoScience) - Science labs glow with the colors of the science packs they're consuming.
@@ -22,7 +22,7 @@ The Starstruck modpack is a unique constellation of mods that subtly enhance gam
 
 ### Tools & Automation
 
-- [__Rate Calculator__](https://mods.factorio.com/mod/RateCalculator) - Adds a planner tool to calculate maximum production and consumption rates for the selected machines.
+- [__Rate Calculator__](https://mods.factorio.com/mod/RateCalculator) - Adds a planner tool to calculate maximum production and consumption rates.
 - [__Automatic Train Painter__](https://mods.factorio.com/mod/Automatic_Train_Painter) - Colors locomotives and wagons based on their contents.
 - [__Automatic Station Painter__](https://mods.factorio.com/mod/automatic-station-painter) - Colors stations based on the trains' colors.
 - [__Color whole train__](https://mods.factorio.com/mod/color_whole_train) - Colors train wagons based on the destination train stop.
